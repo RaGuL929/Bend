@@ -27,6 +27,7 @@ Assets used are
 
 Connecting wires
 
+### Execution:
 
 STEP 1 : Make the circuit connections as shown in the diagram for both master and slave.
 
