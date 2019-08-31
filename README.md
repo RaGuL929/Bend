@@ -1,7 +1,9 @@
 # Bend
-Scenes folder contain scene for Graph and Game.
+ We have made a VR game to reduce lumbar back pain.It is a endless running game which takes user hip movements as improvements.Inputs are serial and recived from arduino board on a specific COM port
+ 
+Scenes folder contain scenes for Graph and Game.
 
-Scripts contain all code for level designing.
+Scripts contain code for level designing.
 
 Assets used are
 
