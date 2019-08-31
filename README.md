@@ -1,4 +1,7 @@
 # Bend
+
+## Game instructions:
+
  We have made a VR game to reduce lumbar back pain.It is a endless running game which takes user hip movements as improvements.Inputs are serial and recived from arduino board on a specific COM port
  
 Scenes folder contain scenes for Graph and Game.
@@ -11,7 +14,7 @@ Assets used are
 
 2.SteamVR -https://assetstore.unity.com/packages/tools/integration/steamvr-plugin-32647
 
-## Arduino instructions:
+## Arduino setup instructions:
 
 ### Requirements:
 
